@@ -1,0 +1,9 @@
+C:\Users\Lucas\Desktop\Exercise Files\curcon\curcon\bin\Debug\curcon.exe.config
+C:\Users\Lucas\Desktop\Exercise Files\curcon\curcon\bin\Debug\curcon.exe
+C:\Users\Lucas\Desktop\Exercise Files\curcon\curcon\bin\Debug\curcon.pdb
+C:\Users\Lucas\Desktop\Exercise Files\curcon\curcon\obj\Debug\curcon.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Exercise Files\curcon\curcon\obj\Debug\curcon.Form1.resources
+C:\Users\Lucas\Desktop\Exercise Files\curcon\curcon\obj\Debug\curcon.Properties.Resources.resources
+C:\Users\Lucas\Desktop\Exercise Files\curcon\curcon\obj\Debug\curcon.csproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\Exercise Files\curcon\curcon\obj\Debug\curcon.exe
+C:\Users\Lucas\Desktop\Exercise Files\curcon\curcon\obj\Debug\curcon.pdb

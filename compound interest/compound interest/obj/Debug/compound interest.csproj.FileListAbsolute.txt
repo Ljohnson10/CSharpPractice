@@ -1,0 +1,9 @@
+C:\Users\Lucas\Desktop\Exercise Files\compound interest\compound interest\bin\Debug\compound interest.exe.config
+C:\Users\Lucas\Desktop\Exercise Files\compound interest\compound interest\bin\Debug\compound interest.exe
+C:\Users\Lucas\Desktop\Exercise Files\compound interest\compound interest\bin\Debug\compound interest.pdb
+C:\Users\Lucas\Desktop\Exercise Files\compound interest\compound interest\obj\Debug\compound interest.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Exercise Files\compound interest\compound interest\obj\Debug\compound_interest.Form1.resources
+C:\Users\Lucas\Desktop\Exercise Files\compound interest\compound interest\obj\Debug\compound_interest.Properties.Resources.resources
+C:\Users\Lucas\Desktop\Exercise Files\compound interest\compound interest\obj\Debug\compound interest.csproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\Exercise Files\compound interest\compound interest\obj\Debug\compound interest.exe
+C:\Users\Lucas\Desktop\Exercise Files\compound interest\compound interest\obj\Debug\compound interest.pdb

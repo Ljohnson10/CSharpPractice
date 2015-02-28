@@ -1,0 +1,9 @@
+C:\Users\Lucas\Desktop\Exercise Files\Table of Powers\Table of Powers\bin\Debug\Table of Powers.exe.config
+C:\Users\Lucas\Desktop\Exercise Files\Table of Powers\Table of Powers\bin\Debug\Table of Powers.exe
+C:\Users\Lucas\Desktop\Exercise Files\Table of Powers\Table of Powers\bin\Debug\Table of Powers.pdb
+C:\Users\Lucas\Desktop\Exercise Files\Table of Powers\Table of Powers\obj\Debug\Table of Powers.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Exercise Files\Table of Powers\Table of Powers\obj\Debug\Table_of_Powers.Form1.resources
+C:\Users\Lucas\Desktop\Exercise Files\Table of Powers\Table of Powers\obj\Debug\Table_of_Powers.Properties.Resources.resources
+C:\Users\Lucas\Desktop\Exercise Files\Table of Powers\Table of Powers\obj\Debug\Table of Powers.csproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\Exercise Files\Table of Powers\Table of Powers\obj\Debug\Table of Powers.exe
+C:\Users\Lucas\Desktop\Exercise Files\Table of Powers\Table of Powers\obj\Debug\Table of Powers.pdb
